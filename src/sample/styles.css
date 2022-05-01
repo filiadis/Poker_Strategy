@@ -1,0 +1,22 @@
+#textField {
+
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 16px;
+    -fx-text-fill: #040e42;
+    /*-fx-pref-width: 50;
+    -fx-pref-height: 50;*/
+    -fx-background-color: #c9c9c9;
+
+}
+
+#calculateButton{
+
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 16px;
+    -fx-text-fill: #fffcfd;
+    /*-fx-pref-width: 50;
+    -fx-pref-height: 50;*/
+    -fx-background-color: #a10036;
+
+
+}
